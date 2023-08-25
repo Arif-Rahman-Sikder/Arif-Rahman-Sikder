@@ -1,5 +1,5 @@
 
-Here is a beautifully formatted and sorted version of your GitHub profile summary:
+
 
 <h1 align="center">Hi 👋, I'm Arif Rahman Sikder</h1> <h3 align="center">The honest guy with big dreams --> Aids in Algorithm troubleshooting and is passionate about Competitive Programming, DevOps, Web development, and AI.</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=arif-rahman-sikder&label=Profile%20views&color=0e75b6&style=flat" alt="arif-rahman-sikder" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif-rahman-sikder" alt="arif-rahman-sikder" /></a> </p> <p align="center"> <a href="https://twitter.com/thehonestguyoff" target="blank"><img src="https://img.shields.io/twitter/follow/thehonestguyoff?logo=twitter&style=for-the-badge" alt="thehonestguyoff" /></a> </p>
 - 🌱 I’m currently learning **and simultaneously developing my problem-solving abilities while working on web development**
