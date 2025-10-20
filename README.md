@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arif Rahman Sikder</h1>
-<h3 align="center">💡 The Honest Guy with Big Dreams | Passionate about Competitive Programming, DevOps, Web Development, and AI 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Arif+Rahman+Sikder;The+Honest+Guy+with+Big+Dreams;Passionate+about+Competitive+Programming%2C;DevOps%2C+Web+Development%2C+and+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Arif Rahman Sikder</h1>
+<h3 align="center">💡 Turning Ideas into Code | Exploring the Frontiers of Tech</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arif-rahman-sikder&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -15,13 +19,24 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently **enhancing my problem-solving skills** while building cool **web development projects**  
-- 👨‍💻 Check out all my works at: [**My Portfolio**](https://arif-rahman-sikder.github.io/My-bootstrap-portfolio/)  
-- 📝 I also create **media content** for:  
-  `IEEE Computer Society (IIUC SBC)`, `IIUC Computer Club`, and `IIUC Competitive Programming Society`
-- 💬 Ask me about **anything related to Computer Science**  
+- 🌱 I’m currently **enhancing my problem-solving skills** while building innovative **web development projects**  
+- 👨‍💻 Explore my portfolio: [**My Portfolio**](https://arif-rahman-sikder.github.io/My-bootstrap-portfolio/)  
+- 📝 I create **media content** for:  
+  `IEEE Computer Society (IIUC SBC)`, `IIUC Computer Club`, and `IIUC Competitive Programming Society`  
+- 💬 Ask me about **anything in Computer Science** – from algorithms to AI  
 - 📫 Reach me at **arifrahman78640@gmail.com**  
-- ⚡ Fun fact: **I’m great at making predictions and enjoy arm wrestling 💪**
+- ⚡ Fun fact: **I’m a master predictor and arm wrestling enthusiast 💪**
+
+---
+
+### 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/thehonestguy" target="_blank"><img src="https://cp-logo.vercel.app/codeforces/thehonestguy?logo=true" alt="Codeforces Rating" height="40"/></a>
+  <a href="https://www.codechef.com/users/thehonestguy" target="_blank"><img src="https://cp-logo.vercel.app/codechef/thehonestguy?logo=true" alt="CodeChef Rating" height="40"/></a>
+  <a href="https://www.leetcode.com/thehonestguy" target="_blank"><img src="https://cp-logo.vercel.app/leetcode/thehonestguy?logo=true" alt="LeetCode Rating" height="40"/></a>
+  <a href="https://www.hackerrank.com/arifrahman78640" target="_blank"><img src="https://img.shields.io/badge/HackerRank-arifrahman78640-green?logo=hackerrank&logoColor=white" alt="HackerRank" height="40"/></a>
+</p>
 
 ---
 
@@ -75,7 +90,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-rahman-sikder&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arif-rahman-sikder/arif-rahman-sikder/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 ---
 
 ### 💬 Motto
 <p align="center"><i>"Keep your code honest, your logic sharp, and your dreams big."</i></p>
+
+<p align="center">⭐️ From <a href="https://github.com/arif-rahman-sikder">arif-rahman-sikder</a></p>
